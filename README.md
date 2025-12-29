@@ -26,7 +26,7 @@ Replace `FileName` with the name of the Java file you want to test.
 
 ---
 
-## 📌 Purpose of This Repository
+##  Purpose of This Repository
 
 - Learn Java fundamentals
 - Practice object-oriented programming concepts
